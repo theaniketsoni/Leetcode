@@ -10,6 +10,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/theaniketsoni/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/theaniketsoni/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1389-create-target-array-in-the-given-order](https://github.com/theaniketsoni/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/theaniketsoni/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Simulation
 |  |
 | ------- |
@@ -46,4 +47,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/theaniketsoni/Leetcode/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/theaniketsoni/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/theaniketsoni/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
