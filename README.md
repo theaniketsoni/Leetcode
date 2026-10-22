@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/theaniketsoni/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/theaniketsoni/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/theaniketsoni/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0643-maximum-average-subarray-i](https://github.com/theaniketsoni/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/theaniketsoni/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1389-create-target-array-in-the-given-order](https://github.com/theaniketsoni/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/theaniketsoni/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -50,6 +51,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/theaniketsoni/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/theaniketsoni/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
