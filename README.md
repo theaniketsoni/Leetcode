@@ -14,6 +14,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/theaniketsoni/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1389-create-target-array-in-the-given-order](https://github.com/theaniketsoni/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/theaniketsoni/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/theaniketsoni/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/theaniketsoni/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Simulation
 |  |
@@ -74,5 +75,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/theaniketsoni/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/theaniketsoni/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
