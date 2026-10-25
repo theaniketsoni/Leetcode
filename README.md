@@ -12,6 +12,7 @@
 | [0485-max-consecutive-ones](https://github.com/theaniketsoni/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/theaniketsoni/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/theaniketsoni/Leetcode/tree/master/0724-find-pivot-index) |
+| [1254-number-of-closed-islands](https://github.com/theaniketsoni/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/theaniketsoni/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1314-matrix-block-sum](https://github.com/theaniketsoni/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1389-create-target-array-in-the-given-order](https://github.com/theaniketsoni/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -87,6 +88,19 @@
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/theaniketsoni/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1314-matrix-block-sum](https://github.com/theaniketsoni/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/theaniketsoni/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/theaniketsoni/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/theaniketsoni/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/theaniketsoni/Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
