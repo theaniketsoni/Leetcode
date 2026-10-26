@@ -17,6 +17,7 @@
 | [1314-matrix-block-sum](https://github.com/theaniketsoni/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1389-create-target-array-in-the-given-order](https://github.com/theaniketsoni/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/theaniketsoni/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/theaniketsoni/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/theaniketsoni/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/theaniketsoni/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/theaniketsoni/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -72,6 +73,7 @@
 | [0724-find-pivot-index](https://github.com/theaniketsoni/Leetcode/tree/master/0724-find-pivot-index) |
 | [1314-matrix-block-sum](https://github.com/theaniketsoni/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/theaniketsoni/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/theaniketsoni/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
