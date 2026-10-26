@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/theaniketsoni/Leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/theaniketsoni/Leetcode/tree/master/0189-rotate-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/theaniketsoni/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2409-count-days-spent-together](https://github.com/theaniketsoni/Leetcode/tree/master/2409-count-days-spent-together) |
