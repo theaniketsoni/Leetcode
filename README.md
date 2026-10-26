@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/theaniketsoni/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/theaniketsoni/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/theaniketsoni/Leetcode/tree/master/0189-rotate-array) |
+| [0303-range-sum-query-immutable](https://github.com/theaniketsoni/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/theaniketsoni/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/theaniketsoni/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/theaniketsoni/Leetcode/tree/master/0724-find-pivot-index) |
@@ -70,6 +71,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/theaniketsoni/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/theaniketsoni/Leetcode/tree/master/0724-find-pivot-index) |
 | [1314-matrix-block-sum](https://github.com/theaniketsoni/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/theaniketsoni/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/theaniketsoni/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/theaniketsoni/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
