@@ -41,6 +41,7 @@
 | [0075-sort-colors](https://github.com/theaniketsoni/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/theaniketsoni/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/theaniketsoni/Leetcode/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/theaniketsoni/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/theaniketsoni/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/theaniketsoni/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
