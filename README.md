@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/theaniketsoni/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/theaniketsoni/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/theaniketsoni/Leetcode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/theaniketsoni/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/theaniketsoni/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/theaniketsoni/Leetcode/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/theaniketsoni/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/theaniketsoni/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/theaniketsoni/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/theaniketsoni/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/theaniketsoni/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Design
 |  |
