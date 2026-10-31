@@ -36,6 +36,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/theaniketsoni/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/theaniketsoni/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2409-count-days-spent-together](https://github.com/theaniketsoni/Leetcode/tree/master/2409-count-days-spent-together) |
+| [3536-maximum-product-of-two-digits](https://github.com/theaniketsoni/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0015-3sum](https://github.com/theaniketsoni/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/theaniketsoni/Leetcode/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/theaniketsoni/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/theaniketsoni/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Quicksort
 |  |
 | ------- |
