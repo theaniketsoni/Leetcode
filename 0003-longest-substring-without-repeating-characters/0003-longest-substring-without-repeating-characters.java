@@ -10,7 +10,6 @@ class Solution {
             HashSet<Character> set = new HashSet<>();
             j = i;
             char ch1 = s.charAt(j);
-            
             while(j<s.length() && !set.contains(s.charAt(j))){
                 ch1 = s.charAt(j);
                 set.add(ch1);
@@ -18,11 +17,8 @@ class Solution {
                 max = Math.max(max, count);
                 // ch1 = s.charAt(j);
                 j++;
-
             }
             count = 0;
-
-
         }
         return max;
         
