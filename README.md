@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/theaniketsoni/Leetcode/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/theaniketsoni/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/theaniketsoni/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/theaniketsoni/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/theaniketsoni/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/theaniketsoni/Leetcode/tree/master/0724-find-pivot-index) |
 | [1254-number-of-closed-islands](https://github.com/theaniketsoni/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/theaniketsoni/Leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/theaniketsoni/Leetcode/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/theaniketsoni/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/theaniketsoni/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2409-count-days-spent-together](https://github.com/theaniketsoni/Leetcode/tree/master/2409-count-days-spent-together) |
 ## Two Pointers
@@ -48,6 +50,7 @@
 | ------- |
 | [0015-3sum](https://github.com/theaniketsoni/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/theaniketsoni/Leetcode/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/theaniketsoni/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Quicksort
 |  |
 | ------- |
