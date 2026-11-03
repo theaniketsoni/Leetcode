@@ -25,6 +25,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/theaniketsoni/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/theaniketsoni/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/theaniketsoni/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/theaniketsoni/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/theaniketsoni/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2409-count-days-spent-together](https://github.com/theaniketsoni/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3536-maximum-product-of-two-digits](https://github.com/theaniketsoni/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/theaniketsoni/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
