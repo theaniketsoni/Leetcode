@@ -32,6 +32,7 @@
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/theaniketsoni/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/theaniketsoni/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/theaniketsoni/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/theaniketsoni/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/theaniketsoni/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/theaniketsoni/Leetcode/tree/master/2409-count-days-spent-together) |
 ## Bit Manipulation
 |  |
